@@ -1,0 +1,16 @@
+✔ bundle analyzer @done(21-12-18 17:00)
+✔ i18n library @done(21-12-18 17:06)
+✔ husky @done(21-12-21 17:54)
+☐ number, currency and date i18n
+☐ pwa
+☐ redux toolkit
+☐ theming
+☐ swr or rtk
+☐ google analytics
+☐ storybook
+☐ ssr style
+☐ page transition
+☐ page loader
+☐ fonts
+☐ toast and alerts
+☐ modals
